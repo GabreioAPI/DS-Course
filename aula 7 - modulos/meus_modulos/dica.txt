@@ -1,0 +1,22 @@
+como testar modulos:
+cd pasta
+python
+import modulo
+funcao()
+
+ex:
+Microsoft Windows [versão 10.0.19044.2364]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\aluno>cd gabreio
+
+C:\Users\aluno\gabreio>cd aula 7 - modulos
+
+C:\Users\aluno\gabreio\aula 7 - modulos>cd meus_modulos
+
+C:\Users\aluno\gabreio\aula 7 - modulos\meus_modulos>python
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import matematica
+>>> matematica.divide_dois(10,2)
+5.0
